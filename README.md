@@ -1,2 +1,2 @@
 # KOTIN_Support_Assistant_G60B
-For G60B only
+Please download the .exe file and read the user guide
